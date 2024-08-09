@@ -1,0 +1,46 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: #212121;
+  font-family: sans-serif;
+}
+
+.container {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+}
+
+h1 {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+h2 {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+table {
+  overflow: hidden;
+}
+
+th, td {
+  padding: 10px;
+  background-color: #ffffff12;
+  color: #fff;
+}
+
+th {
+  text-align: center;
+}
+
+thead {
+  th {
+    background-color: #212121;
+  }
+}
