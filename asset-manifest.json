@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dapphomes-eventsexplorer/static/css/main.607c437b.css",
+    "main.js": "/dapphomes-eventsexplorer/static/js/main.329c8674.js",
+    "static/js/453.45fa2d66.chunk.js": "/dapphomes-eventsexplorer/static/js/453.45fa2d66.chunk.js",
+    "index.html": "/dapphomes-eventsexplorer/index.html",
+    "main.607c437b.css.map": "/dapphomes-eventsexplorer/static/css/main.607c437b.css.map",
+    "main.329c8674.js.map": "/dapphomes-eventsexplorer/static/js/main.329c8674.js.map",
+    "453.45fa2d66.chunk.js.map": "/dapphomes-eventsexplorer/static/js/453.45fa2d66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.607c437b.css",
+    "static/js/main.329c8674.js"
+  ]
+}
