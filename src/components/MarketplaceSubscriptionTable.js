@@ -14,8 +14,8 @@ export default function MarketplaceSubscriptionTable({ address, web3 }) {
     contract.getPastEvents(
       'Subscription',
       {
-        fromBlock: 0,
-        toBlock: 'latest'
+        fromBlock: 7430576,
+        toBlock: 7918670
       }
     )
       .then(events => setSubscriptionEvents(events))

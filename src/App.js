@@ -24,8 +24,8 @@ function App() {
     contract.getPastEvents(
       'CreateMarketplace',
       {
-        fromBlock: 0,
-        toBlock: 'latest'
+        fromBlock: 7430576,
+        toBlock: 7918670
       }
     )
       .then(events => {
